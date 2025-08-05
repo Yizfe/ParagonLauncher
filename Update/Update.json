@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.4",
+  "Version": "2.0.3",
   "UpdateLink": "https://raw.githubusercontent.com/Yizfe/ParagonLauncher/main/Exe/LegacyLauncher.exe",
   "UpdaterAppLink": "https://raw.githubusercontent.com/Yizfe/ParagonLauncher/main/Exe/UpdaterApp.exe",
-  "ShutdownApp": false
+  "ShutdownApp": true
 }
